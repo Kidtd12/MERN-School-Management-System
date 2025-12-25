@@ -1,6 +1,7 @@
 <h1 align="center">
     SCHOOL MANAGEMENT SYSTEM
 
+    SCHOOL MANAGEMENT SYSTEM
 
 </h1>
 
